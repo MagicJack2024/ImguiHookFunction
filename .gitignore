@@ -1,0 +1,11 @@
+/.vs
+/Build/directx9_demo.dll
+/Build/directx9_demo.pdb
+/Build/Hooked_directx9_demo_app.exe
+/Build/Hooked_directx9_demo_app.pdb
+/directx9_demo/Debug
+/directx9_demo/Release
+/third_party/ImGuiHook-main/ImGuiHook \[Global\]/DirectX9/Release
+/third_party/ImGuiHook-main/ImGuiHook \[Global\]/DirectX9/x64
+/directx9_demo/*.user
+/Build/imgui.ini
