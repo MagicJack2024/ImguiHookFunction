@@ -20,6 +20,8 @@ ImGUI不影响3d游戏或视频窗口的键盘/鼠标消息,也没有抢窗口�
 Demo:
 ImguiHookFunction.sln 演示了使用过程, 运行Hooked_directx9_demo_app，点击加载imgui即可。
 https://github.com/MagicJack2024/ImguiHookFunction/wiki
+![image](https://github.com/MagicJack2024/ImguiHookFunction/blob/main/demo.gif)   
+
 
 
 ImGUI简介
