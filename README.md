@@ -21,6 +21,7 @@ Demo:
 ImguiHookFunction.sln 演示了使用过程, 运行Hooked_directx9_demo_app，点击加载imgui即可。
 https://github.com/MagicJack2024/ImguiHookFunction/wiki
 ![image](https://github.com/MagicJack2024/ImguiHookFunction/blob/main/demo.gif)   
+demo中包含gif动图、png图片、渐变弹出式窗口和imgui demo菜单。
 
 
 
